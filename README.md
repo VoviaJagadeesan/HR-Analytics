@@ -1,8 +1,3 @@
-# Notes
-Due to GitHub file size limitations, The file can be viewed the dashboard files can be viewed from the link available here:
-
-🔗 [Download Project Files (Google Drive)](https://drive.google.com/drive/folders/1tKXCqXauJredXiQstj1fIRUAjfualBY6?usp=drive_link)
-
 # Project Overview:
 Analyzed employee attrition data to understand turnover drivers and workforce trends. Preprocessed and cleaned data in Excel, performed
 SQL queries for insights, and built interactive dashboards in Tableau and Power BI for HR decision-making.
