@@ -26,6 +26,3 @@ SQL queries for insights, and built interactive dashboards in Tableau and Power 
 
 Skills Demonstrated:
 Excel | Tableau | Power BI | SQL | KPI Development | Employee Segmentation | Trend Analysis | HR Analytics | Dashboard Design | Data Cleaning
-
-
-🔗 [Download Project Files (Google Drive)](https://drive.google.com/drive/folders/1tKXCqXauJredXiQstj1fIRUAjfualBY6?usp=drive_link)
