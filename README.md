@@ -24,5 +24,5 @@ SQL queries for insights, and built interactive dashboards in Tableau and Power 
 
 ~ Dashboards provide actionable insights for HR and management
 
-Skills Demonstrated:
+# Skills Demonstrated:
 Excel | Tableau | Power BI | SQL | KPI Development | Employee Segmentation | Trend Analysis | HR Analytics | Dashboard Design | Data Cleaning
